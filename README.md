@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m passionate about building clean, functional, and user friendly web applications. Currently studying Informatics while working on freelance projects, combining theory and real-world practice to grow as a full-stack developer.
+I’m passionate about building clean, functional, and user friendly web applications. Currently studying Informatics while working on freelance projects, combining theory and real world practice to grow as a full stack developer.
 
 🚀 What I Do?
 
